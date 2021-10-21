@@ -3,7 +3,7 @@
 ## How to run the app
 Available on Postman for now.
 
-## User Stories
+## What users can do
 - A user can create a store.
 - A user can post items within a store.
 - A user can change the item or pricing of the item.
