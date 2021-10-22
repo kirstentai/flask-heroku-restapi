@@ -1,7 +1,7 @@
 ## Online Bookstore API: Made with Python, Flask and Heroku
 
 ## How to run the app
-Available on Postman for now.
+A demo of the app running on [Postman](https://www.loom.com/share/27425c54cb8741d6aae0403fa05863ce)
 
 ## What users can do
 - A user can create a store.
@@ -35,6 +35,5 @@ Then install packages in the virtual environment. pip3 install the ff:
 - Flask-JWT
 - Flask-SQLAlchemy
 
-## Here's a demo of the app running on [Postman](https://www.loom.com/share/27425c54cb8741d6aae0403fa05863ce)
 
 Credits to [Teclado](https://github.com/tecladocode)
