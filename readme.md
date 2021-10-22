@@ -37,3 +37,4 @@ Then install packages in the virtual environment. pip3 install the ff:
 
 ## Here's a demo of the app running on [Postman](https://www.loom.com/share/27425c54cb8741d6aae0403fa05863ce)
 
+Credits to [Teclado]](https://github.com/tecladocode)
