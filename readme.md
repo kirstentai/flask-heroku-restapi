@@ -34,6 +34,3 @@ Then install packages in the virtual environment. pip3 install the ff:
 - Flask-RESTFul
 - Flask-JWT
 - Flask-SQLAlchemy
-
-
-Credits to [Teclado](https://github.com/tecladocode)
